@@ -1,4 +1,4 @@
-# dev practices
+# dev guides
 
 ## LICENSE
 
