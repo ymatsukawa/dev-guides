@@ -1,4 +1,4 @@
-# code of conduct
+# dev practices
 
 ## LICENSE
 
